@@ -1,10 +1,2 @@
----
-title: Phase3frontend
-emoji: ⚡
-colorFrom: purple
-colorTo: purple
-sdk: static
-pinned: false
----
+PHASE-V
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
